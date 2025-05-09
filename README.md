@@ -2,7 +2,12 @@
   <img src="brain-11343_512.gif" width="200px" alt="Brain animation" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kasun Mahela (hostkm)</h1>
+<h1 align="center">
+  Hi there 
+  <img src="appear-4500_256.gif" width="40px" style="vertical-align: middle;" alt="Waving hand" /> 
+  I'm Kasun Mahela
+</h1>
+
 <h3 align="center">🔧 Engineering Student | 💻 Full Stack & Embedded Developer | 🚀 Passionate Coder</h3>
 
 <p align="center">
