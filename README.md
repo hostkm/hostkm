@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hi there 
-  <img src="appear-Hi1.gif?raw=true" width="129px" style="vertical-align: middle;" alt="Waving hand" /> 
+  <img src="appear-Hi1.gif?raw=true" width="88px" style="vertical-align: middle;" alt="Waving hand" /> 
   I'm Kasun Mahela
 </h1>
 
