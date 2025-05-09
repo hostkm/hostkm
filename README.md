@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hostkm/hostkm/blob/main/assets/brain-11343_512.gif?raw=true" width="100%" alt="Brain animation" />
+  <img src="[https://github.com/hostkm/hostkm/blob/main/assets/brain-11343_512.gif?raw=true](https://github.com/hostkm/hostkm/blob/main/brain-11343_512.gif?raw=true)" width="100%" alt="Brain animation" />
 </p>
 
 
