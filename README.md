@@ -25,6 +25,7 @@
 - ⚡ Fun fact: *I break bugs before they break me 🧠*
 
 ---
+
 ### 💡 OS & Platform Focus
 
 - 🐧 I’m highly comfortable with **Linux-based systems** (Ubuntu, Kali, etc.) and **Windows OS**.
@@ -76,8 +77,6 @@
 
 [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hostkm&theme=react-dark&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
----
-![snake gif](https://github.com/hostkm/hostkm/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📬 Contact Me
