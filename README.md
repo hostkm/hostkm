@@ -77,6 +77,8 @@
 [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hostkm&theme=react-dark&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
+![snake gif](https://github.com/hostkm/hostkm/blob/output/github-contribution-grid-snake.svg)
+---
 
 ### 📬 Contact Me
 
@@ -95,6 +97,8 @@
 - 💬 WhatsApp: [Click to message](https://wa.me/94712151023) *(Text only)*
 📌 **Open for work, collaboration, and freelance opportunities**
 
+---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hostkm.hostkm)
 ---
 
 > 🔁 *"Keep pushing code, breaking limits, and building your dreams."*
