@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="brain-11343_512.gif" width="200px" alt="Brain animation" />
+  <img src="brain-11343_512.gif?raw=true" width="200px" alt="Brain animation" />
 </p>
 
 <h1 align="center">
   Hi there 
-  <img src="appear-Hi.gif" width="40px" style="vertical-align: middle;" alt="Waving hand" /> 
+  <img src="appear-Hi1.gif?raw=true" width="129px" style="vertical-align: middle;" alt="Waving hand" /> 
   I'm Kasun Mahela
 </h1>
 
