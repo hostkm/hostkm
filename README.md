@@ -46,5 +46,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.kasunmahela2020.am@gmail.com)
 
